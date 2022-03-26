@@ -15,10 +15,6 @@
           <a target="_blank" href="https://www.facebook.com/dancindaysdemaringa">Instagram: /dancindaysdemaringa </a>
           <a target="_blank" href="https://www.instagram.com/bandadancindays">Facebook: /dancindaysdemaringa </a>
           <a target="_blank" href="https://www.youtube.com/user/dancinmga">Youtube: /dancinmga </a>
-
-
-
-
         </div>
         <!--Right Col-->
         <div class="w-full md:w-3/5 py-6">
