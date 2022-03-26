@@ -3,12 +3,12 @@ export default {
   head: {
     title: 'bandadancindays',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'pt-BR'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Há 34 Anos Atuando no Mercado da Música. Casamento, Formaturas, Eventos Temáticos e Corporativos.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
@@ -18,6 +18,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '@/assets/css/main.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -31,6 +32,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/color-mode',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
